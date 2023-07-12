@@ -23,7 +23,7 @@
 				</li>
 
 
-						<li><a href="#" title="">Blog</a></li>
+						<li><a href="#" title=""><span><i class="fa fa-rss" aria-hidden="true"></span></i>Blog</a></li>
 						
 				
 				<li><a href="/contact" title=""><span><i class="fa fa-joomla"></i></span>contact Us</a></li>
@@ -44,7 +44,7 @@
 					
 				</li>
 				<li><a href="/about" title=""><span><i class="fa fa-edit"></i></span>About</a></li>
-				<li><a href="/eon" title=""><span><i class="fa fa-superpowers"></i></span>EON</a></li>
+				<li><a href="/eon" title=""><span><i class="fa fa-glass"></i></span>EON</a></li>
 					
 				</li>
 				<li><a href="/services" title=""><span><i class="fa fa-pagelines"></i></span>Services</a>
@@ -58,7 +58,7 @@
 
 <li><a href="/snaps" title=""><span><i class="fa fa-picture-o"></i></span>Gallery</a>
 
-						<li><a href="#" title="">Blog</a>
+						<li><a href="#" title=""><i class="fa fa-rss" aria-hidden="true"></i>Blog</a>
 							
 						</li>
 						
