@@ -40,7 +40,7 @@
 	</div><!-- Responsive Logo -->	
 	<span><i class="fa fa-align-justify"></i></span>
 	<ul>
-				<li><a href="/index" title=""><span><i class="fa fa-home"></i></span>Home</a>
+				<li><a href="/" title=""><span><i class="fa fa-home"></i></span>Home</a>
 					
 				</li>
 				<li><a href="/about" title=""><span><i class="fa fa-edit"></i></span>About</a></li>
