@@ -44,7 +44,7 @@
 					
 				</li>
 				<li><a href="/about" title=""><span><i class="fa fa-edit"></i></span>About</a></li>
-				
+				<li><a href="/eon" title=""><span><i class="fa fa-superpowers"></i></span>EON</a></li>
 					
 				</li>
 				<li><a href="/services" title=""><span><i class="fa fa-pagelines"></i></span>Services</a>
