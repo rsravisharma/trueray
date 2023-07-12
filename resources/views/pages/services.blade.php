@@ -37,7 +37,21 @@
 
 				<div class="remove-ext offers">
 						<div class="row">
-							<div class="col-md-4">
+
+							<div class="col-md-6">
+								<div class="offer">
+									<div class="offer-img"><img src="images/resource/true.jpg" alt="" /></div>
+									<div class="offer-desc">
+										<div class="offer-inner">
+											<h3>Echoes of Night</h3>
+											
+											<a href="/eon" title="">READ MORE</a>
+										</div>
+									</div>
+								</div><!-- Offer -->
+							</div>
+
+							<div class="col-md-6">
 								<div class="offer">
 									<div class="offer-img"><img src="images/resource/offer1.jpg" alt="" /></div>
 									<div class="offer-desc">
@@ -49,7 +63,8 @@
 									</div>
 								</div><!-- Offer -->
 							</div>
-							<div class="col-md-4">
+
+							<div class="col-md-6">
 								<div class="offer">
 									<div class="offer-img"><img src="images/resource/offer2.jpg" alt="" /></div>
 									<div class="offer-desc">
@@ -61,7 +76,8 @@
 									</div>
 								</div><!-- Offer -->
 							</div>
-							<div class="col-md-4">
+
+							<div class="col-md-6">
 								<div class="offer">
 									<div class="offer-img"><img src="images/resource/offer22.jpg" alt="" /></div>
 									<div class="offer-desc">
