@@ -71,7 +71,8 @@
 </section><!-- Upcoming Event Section -->
 
 
-<section>
+
+<!-- <section>
 	
 		<section>
 	<div class="block gray half-parallax blackish remove-bottom">
@@ -92,7 +93,6 @@
 		</div>
 	</div>
 </section>
-
 <section>
 	<div class="block gray half-parallax blackish">
 		<div style="background:url(images/parallax1.jpg);" class="parallax"></div>
@@ -117,7 +117,7 @@
 											<a href="/eon" title="">READ MORE</a>
 										</div>
 									</div>
-								</div><!-- Offer -->
+								</div>
 							</div>
 
 							<div class="col-md-6">
@@ -130,7 +130,7 @@
 											<a href="/wedding-planning" title="">READ MORE</a>
 										</div>
 									</div>
-								</div><!-- Offer -->
+								</div>
 							</div>
 
 							<div class="col-md-6">
@@ -143,7 +143,7 @@
 											<a href="/cor-events" title="">READ MORE</a>
 										</div>
 									</div>
-								</div><!-- Offer -->
+								</div>
 							</div>
 
 							<div class="col-md-6">
@@ -156,15 +156,15 @@
 											<a href="/private-events" title="">READ MORE</a>
 										</div>
 									</div>
-								</div><!-- Offer -->
+								</div>
 							</div>
 							
 						</div>
-					</div><!-- Offers -->
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-</section><!--Offers Section-->
+</section> -->
 
 @endsection
